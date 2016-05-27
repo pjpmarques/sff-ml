@@ -1,4 +1,5 @@
 # Introduction
 
-Back to the basics.
+This will be the introduction of the book.
+
 
