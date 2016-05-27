@@ -3,6 +3,6 @@
     "author":           "Paulo Marques and Pedro Bizarro",
     "plugins":          ["katex"],
     
-    "pdf.fontSize":     12,
+    "pdf.fontSize":     10,
     "pdf.paperSize":    "a4"
 }
