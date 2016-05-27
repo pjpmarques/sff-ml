@@ -11,6 +11,7 @@ Hayato Suzuki was felling nervous. He walked down Shinsaibashi-suji, one of Osak
 The web site was being bombarded again. Unfortunately, it wasn't a denial of service attack. It was much worse than that. Hundreds of bots were trying to buy perfume from the store using thousands of different IPs. While they weren't overloading the side, it was virtually impossible to distinguish legitimate customers from these automated buying machines. John Cash was in charge of cybersecurity and his job was at risk. Expensive perfume sells extremely well on the black market. How could criminals have become so sophisticated? When did his job really become so much at risk? Before the day ended his company would be out of $100,000 worth of stock. Not to mention all the chargebacks that were coming down the line due to the use of stolen credit cards on the web site.
 
 ### About this book
-TBD
+
+
 
 
