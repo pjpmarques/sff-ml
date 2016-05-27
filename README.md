@@ -1,5 +1,5 @@
 # Introduction
 
-It's 9:45AM on a hot Tuesday when Chandni Akhand receives a call. 
+It's a hot Tuesday afternoon when Chandni Akhand receives a call. Chandni works at a major bank in Bangladesh and everything looked nice until the phone rang.
 
 
