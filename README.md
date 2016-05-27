@@ -8,7 +8,7 @@ It's a hot Tuesday afternoon when Chandni Akhand receives a call. Chandni works 
 Hayato Suzuki was felling nervous. He walked down Shinsaibashi-suji, one of Osaka's main shopping areas, with a batch of credit cards in his pocket. Needless to say, none was legit. Trying not to look too conspicuous, he withdraws 100,000 yen from the corner ATM; his 12th withdraw of the day. Over the next couple of hours Hayato and his friends successful steal over 1.4 billion yen ($12.7M) in one of the largest coordinated on-foot heists in history. Over 14,000 withdraws take place across 16 prefectures using credit cards. The source: a major data leak at a South African bank.
 
 #### Out of the street
-TBD
+
 
 ### About this book
 TBD
