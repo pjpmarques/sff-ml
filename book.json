@@ -1,7 +1,6 @@
 {
     "title":            "Street Fighting Fraud with Machine Learning",
     "author":           "Paulo Marques and Pedro Bizarro",
-    "root":             "./the_book",
     "plugins":          ["katex"],
     
     "pdf.fontSize":     12,
