@@ -1,3 +1,4 @@
 
 # Ignore directories used to build book
 node_modules/*
+_book/*
