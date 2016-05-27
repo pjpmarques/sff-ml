@@ -15,5 +15,5 @@ This book is about using Machine Learning to fight fraud. Machine Learning --*th
 
 For the past years we have been at the front lines of fraud prevention. In this book we intend to share some of the stories but, more importantly, contribute to the fight against fraud. Machine Learning gives you super powers. Let's use them for good.
 
-Paulo Marques  
-Pedro Bizarro
+  Paulo Marques  
+  Pedro Bizarro
