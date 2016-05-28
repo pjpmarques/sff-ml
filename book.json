@@ -4,7 +4,8 @@
     "plugins": [
         "katex",
         "anchor-navigation",
-        "anchors"
+        "anchors",
+        "anchors-wrapper"
     ],
     "structure": {
         "readme": "preface.md"
