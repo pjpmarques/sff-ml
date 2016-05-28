@@ -3,7 +3,8 @@
     "author": "Paulo Marques and Pedro Bizarro",
     "plugins": [
         "katex",
-        "anchor-navigation"
+        "anchor-navigation",
+        "anchors"
     ],
     "structure": {
         "readme": "preface.md"
