@@ -3,7 +3,7 @@
     "author": "Paulo Marques and Pedro Bizarro",
     "plugins": [
         "katex",
-        "theme-default",
+        "-theme-default",
         "fontsettings"
     ],
     "structure": {
