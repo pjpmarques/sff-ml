@@ -1,9 +1,13 @@
 {
-    "title":            "Street Fighting Fraud with Machine Learning",
-    "author":           "Paulo Marques and Pedro Bizarro",
-    "plugins":          ["katex", "theme-default"],
-    
+    "title": "Street Fighting Fraud with Machine Learning",
+    "author": "Paulo Marques and Pedro Bizarro",
+    "plugins": [
+        "katex",
+        "theme-default",
+        "fontsettings"
+    ],
     "structure": {
         "readme": "preface.md"
-    }
+    },
+    "pluginsConfig": {}
 }
