@@ -4,6 +4,6 @@
     "plugins":          ["katex", "theme-default"],
     
     "structure": {
-        "readme":       "preface.md"
+        "readme": "preface.md"
     }
 }
