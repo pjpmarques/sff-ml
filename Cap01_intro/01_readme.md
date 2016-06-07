@@ -14,4 +14,6 @@ When you are evaluating results there are several metrics that are important. Fr
 
 Our objective with this book is to give an end-to-end guide to what it means to be a Data Scientist working on the area of Risk Management, in particular in Payments. A guide to the brave world of fighting fraud.
 
-For this journey we'll mostly use [Feedzai's Data Science Framework](https://www.feedzai.com). The main motivation is that same that lead to this book. Fighting fraud requires much more than simply creating an machine learning model. There are many tools and frameworks to create these models. But for doing the complete process that includes data exploration, sampling, feature engineering, profile building, model training and evaluation and production deployment, no tool currently rivals Feedzai's. 
+### Tools of the trade
+
+For this journey we'll mostly use [Feedzai's Data Science Framework](https://www.feedzai.com). The main motivation is that same that lead to this book. Fighting fraud requires much more than simply creating an machine learning model. There are many tools and frameworks to create these models. But for doing the complete process that includes data exploration, sampling, feature engineering, profile building, model training and evaluation and production deployment, no tool currently rivals Feedzai's.
