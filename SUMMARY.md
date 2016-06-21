@@ -1,6 +1,16 @@
 # Summary
 
 * [Preface](preface.md)
-* [Introduction](Cap01_intro/01_readme.md)
-  * [Book organization](Cap01_intro/02_book_organization.md)
-
+* [Introduction](Cap01_Intro/01_readme.md)
+  * [Book organization](Cap01_Intro/02_book_organization.md)
+* [Payment Systems](Cap02_PaymentSystems/01_readme.md)
+* [The Data Science Loop](Cap03_DataScienceLoop/01_readme.md)
+* [Machine Learning](Cap04_MachineLearning/01_readme.md)
+* [Data Exploration](Cap05_DataExploration/01_readme.md)
+* [Sampling](Cap06_Sampling/01_readme.md)
+* [FeatureEngineering](Cap07_FeatureEngineering/01_readme.md)
+* [Model Building](Cap08_ModelBuilding/01_readme.md)
+* [EvaluatingResults](Cap09_EvaluatingResults/01_readme.md)
+* [Runtime Deployment](Cap10_RuntimeDeployment/01_readme.md)
+* [Conclusion](Cap11_Conclusion/01_readme.md)
+* [Appendix - Dataset Generation](CapApp01_DatasetGeneration/01_readme.md)
