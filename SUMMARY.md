@@ -1,8 +1,8 @@
 # Summary
 
 * [Preface](preface.md)
-* [Introduction](Cap01_Intro/01_readme.md)
-  * [Book organization](Cap01_Intro/02_book_organization.md)
+* [Introduction](Cap01_Introduction/01_readme.md)
+  * [Book organization](Cap01_Introduction/02_book_organization.md)
 * [Payment Systems](Cap02_PaymentSystems/01_readme.md)
 * [The Data Science Loop](Cap03_DataScienceLoop/01_readme.md)
 * [Machine Learning](Cap04_MachineLearning/01_readme.md)
